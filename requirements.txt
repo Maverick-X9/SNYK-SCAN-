@@ -1,5 +1,8 @@
-requests==2.18.4
-django==1.11.29
-flask==0.12.5
-pillow==5.4.1
-pyyaml==3.12
+requests==2.32.2
+django==5.0.14
+flask==2.2.5
+pillow==10.3.0
+pyyaml==4.2b1
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=1.26.19 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
