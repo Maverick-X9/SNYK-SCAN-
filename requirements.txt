@@ -1,5 +1,5 @@
 requests==2.18.4
-django==1.11.29
+django==4.2.21
 flask==0.12.5
 pillow==5.4.1
 pyyaml==3.12
