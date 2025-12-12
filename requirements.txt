@@ -3,3 +3,4 @@ django==1.11.29
 flask==0.12.5
 pillow==5.4.1
 pyyaml==3.12
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
